@@ -1,5 +1,7 @@
 # CSE158_A1
 
+course webpage: https://cseweb.ucsd.edu/classes/fa22/cse258-a/
+
 task1: Reading prediction
 description: 
 I followed the same method from hw3 but built a new popular set called newReturn1 using the threshold from hw3 solution: "count > 1.5 * totalRead/2". I also incorporated the code from hw3 solution, which is "len(ratingsPerItem[b]) > 30", in addition to my original maximum similarity comparison and whether the item is in newReturn1.
